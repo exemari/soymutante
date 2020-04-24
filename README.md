@@ -36,7 +36,7 @@ https://diseniares.com.ar/soymutante/esmutante.php?adn=CTAA,CTTT,TTTT,GACT (ejem
 https://diseniares.com.ar/soymutante/stats.php (estadisticas que nos indican la proporcion de mutantes comparada con la de Humanos)
 
 DIAGRAMA DE SECUENCIA
-El diagrama de secuencia que muestra el flujo desde la petición del usuario, hasta el resultado que se le muesta, esta en la carpeta /docs
+El diagrama de secuencia que muestra el flujo desde la petición del usuario, hasta el resultado que se le muesta, esta en la carpeta /docs y se puede descargar de la siguiente URL: https://diseniares.com.ar/soymutante/docs/Diagrama%20Secuencia%20Soy%20Mutante.pdf
 
 Prerequisitos PHP 7.0, Mysql 5, Apache PhpUnit 8.2
 
