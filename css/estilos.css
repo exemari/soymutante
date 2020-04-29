@@ -1,0 +1,37 @@
+body{
+	font-size:10pt;
+}
+.td_fondo{
+	background-color:#ccc;
+}
+#jugador1{
+	background-color:#eaa1a1;
+	width: 100%;
+	padding:1px;
+}#jugador2{
+	background-color:#adeaa1;
+	width: 100%;
+	padding:1px;
+}
+.promocionada{
+	color:#2048ad;
+	font-weight: bold;
+
+}
+#referencias{
+	font-size:90%;
+	font-weight: bold;
+	padding-bottom: 10px;
+}
+.aclaraciones{
+	font-size:70%;
+	background-color: #f7e8e8;
+}
+#tablero{
+	font-size:10pt;
+}
+#aclaraciones{
+	float: right;
+	font-size:12pt;
+}
+
